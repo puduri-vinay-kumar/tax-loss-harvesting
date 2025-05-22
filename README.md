@@ -17,7 +17,7 @@ https://track-loss-harvesting.vercel.app/
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/puduri-vinay-kumar/track-loss-harvesting/
+   git clone https://github.com/puduri-vinay-kumar/tax-loss-harvesting/
 2. **Navigate to the project directory:**
    ```bash
    cd tax-loss-harvesting
